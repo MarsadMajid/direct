@@ -7,7 +7,7 @@ const Hedder = () => {
   return (
     <>
     <div className='bg-red-500 text-center py-2 overflow-hidden'>
-    <TextAnimation/>
+      <TextAnimation/>
     </div>
     <div>
       <Navbar1/>

@@ -1,5 +1,5 @@
-"use client";
-
+"use client"
+import React from "react";
 import { useState, useEffect } from "react";
 
 const TextAnimation = () => {
